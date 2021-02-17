@@ -1,0 +1,16 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "cSpell.language": "en",
+  "cSpell.words": [],
+  "cSpell.ignorePaths": [
+    "node_modules/**",
+    ".git",
+    ".vscode",
+    "package.json",
+    "package-lock.json",
+    "dist",
+    ".dockerignore"
+  ]
+}
